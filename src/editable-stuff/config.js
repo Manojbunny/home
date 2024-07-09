@@ -57,7 +57,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "Manojbunny", //i.e."johnDoe12Gh"
   reposLength: 4,
-  specificRepos: [],
+  specificRepos: ["home","myshop","python-turtle-programs"],
 };
 
 // Leadership SECTION
