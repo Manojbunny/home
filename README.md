@@ -9,8 +9,8 @@
     <strong>Site URL / Demo » </strong> 
     <a href="https://Manojbunny.github.io/home">Manojbunny.github.io/home</a>
     <br />
-    <br />
-    <a href="https://Manojbunny.github.io">About Me</a>
+    
+  
   </p>
 </p>
 
